@@ -1,0 +1,13 @@
+title: 上海百鱼电子科技有限公司
+description: Shanghai Baiyu Electronic Technology Co., Ltd. - 建筑施工·装饰装修·房屋修缮加固·宠物食品代理
+theme: minima
+lang: zh-CN
+url: "https://www.petzest.cn"
+baseurl: ""   # 自定义域名走根目录，留空；若部署在 username.github.io/repo 子路径则填 "/repo"
+
+# 不使用 Jekyll 主题渲染（保持纯静态 HTML）
+plugins: []
+exclude:
+  - README.md
+  - .gitignore
+  - node_modules
